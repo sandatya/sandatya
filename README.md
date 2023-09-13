@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Sandatya
+Currently working as Lecturer & Teacher, but I love learn new thing in programming.
 
-<!--
-**sandatya/sandatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as Teacher & Lecturer
+- 🌱 I’m currently learning Python, Javascript, and react native
+- 👯 I’m looking to collaborate on Mobile App
+- 🤔 I’m looking for help with master of programming
+- 💬 Ask me about anything
+- 📫 How to reach me: <a href="mailto:bisatyaproject@gmail.com">Email me!</a>  </br>
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: car & motorcyle is the best place to sleeping
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sandatya&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandatya&layout=compact" height=180 />
+</p>
